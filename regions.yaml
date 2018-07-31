@@ -1,191 +1,147 @@
-- {name: !!python/str "\u041D\u043E\u0432\u043E\u0441\u0438\u0431\u0438\u0440\u0441\
-    \u043A", pages: 2985, url: 'http://www.avito.ru/novosibirsk'}
-- {name: !!python/str "\u041E\u043C\u0441\u043A", pages: 3450, url: 'http://www.avito.ru/omsk'}
-- {name: !!python/str "\u0411\u0430\u0440\u043D\u0430\u0443\u043B", pages: 1646, url: 'http://www.avito.ru/barnaul'}
-- {name: !!python/str "\u0412\u043B\u0430\u0434\u0438\u0432\u043E\u0441\u0442\u043E\
-    \u043A", pages: 244, url: 'http://www.avito.ru/vladivostok'}
-- {name: !!python/str "\u0418\u0440\u043A\u0443\u0442\u0441\u043A", pages: 1827, url: 'http://www.avito.ru/irkutsk'}
-- {name: !!python/str "\u041A\u0435\u043C\u0435\u0440\u043E\u0432\u043E", pages: 789,
-  url: 'http://www.avito.ru/kemerovo'}
-- {name: !!python/str "\u041A\u0440\u0430\u0441\u043D\u043E\u044F\u0440\u0441\u043A",
-  pages: 2360, url: 'http://www.avito.ru/krasnoyarsk'}
-- {name: !!python/str "\u041D\u043E\u0432\u043E\u043A\u0443\u0437\u043D\u0435\u0446\
-    \u043A", pages: 282, url: 'http://www.avito.ru/novokuznetsk'}
-- {name: !!python/str "\u0421\u0443\u0440\u0433\u0443\u0442", pages: 496, url: 'http://www.avito.ru/surgut'}
-- {name: !!python/str "\u0422\u043E\u043C\u0441\u043A", pages: 947, url: 'http://www.avito.ru/tomsk'}
-- {name: !!python/str "\u0422\u044E\u043C\u0435\u043D\u044C", pages: 1892, url: 'http://www.avito.ru/tyumen'}
-- {name: !!python/str "\u0425\u0430\u0431\u0430\u0440\u043E\u0432\u0441\u043A", pages: 634,
-  url: 'http://www.avito.ru/habarovsk'}
-- {name: !!python/str "\u0410\u043B\u0442\u0430\u0439\u0441\u043A\u0438\u0439 \u043A\
-    \u0440\u0430\u0439", pages: 1967, url: 'http://www.avito.ru/altayskiy_kray'}
-- {name: !!python/str "\u0410\u043C\u0443\u0440\u0441\u043A\u0430\u044F \u043E\u0431\
-    \u043B.", pages: 190, url: 'http://www.avito.ru/amurskaya_oblast'}
-- {name: !!python/str "\u0411\u0443\u0440\u044F\u0442\u0438\u044F", pages: 204, url: 'http://www.avito.ru/buryatiya'}
-- {name: !!python/str "\u0415\u0432\u0440\u0435\u0439\u0441\u043A\u0430\u044F \u0410\
-    \u041E", pages: 34, url: 'http://www.avito.ru/evreyskaya_ao'}
-- {name: !!python/str "\u0417\u0430\u0431\u0430\u0439\u043A\u0430\u043B\u044C\u0441\
-    \u043A\u0438\u0439 \u043A\u0440\u0430\u0439", pages: 338, url: 'http://www.avito.ru/zabaykalskiy_kray'}
-- {name: !!python/str "\u0418\u0440\u043A\u0443\u0442\u0441\u043A\u0430\u044F \u043E\
-    \u0431\u043B.", pages: 2191, url: 'http://www.avito.ru/irkutskaya_oblast'}
-- {name: !!python/str "\u041A\u0430\u043C\u0447\u0430\u0442\u0441\u043A\u0438\u0439\
-    \ \u043A\u0440\u0430\u0439", pages: 85, url: 'http://www.avito.ru/kamchatskiy_kray'}
-- {name: !!python/str "\u041A\u0435\u043C\u0435\u0440\u043E\u0432\u0441\u043A\u0430\
-    \u044F \u043E\u0431\u043B.", pages: 1258, url: 'http://www.avito.ru/kemerovskaya_oblast'}
-- {name: !!python/str "\u041A\u0440\u0430\u0441\u043D\u043E\u044F\u0440\u0441\u043A\
-    \u0438\u0439 \u043A\u0440\u0430\u0439", pages: 2634, url: 'http://www.avito.ru/krasnoyarskiy_kray'}
-- {name: !!python/str "\u041C\u0430\u0433\u0430\u0434\u0430\u043D\u0441\u043A\u0430\
-    \u044F \u043E\u0431\u043B.", pages: 13, url: 'http://www.avito.ru/magadanskaya_oblast'}
-- {name: !!python/str "\u041D\u043E\u0432\u043E\u0441\u0438\u0431\u0438\u0440\u0441\
-    \u043A\u0430\u044F \u043E\u0431\u043B.", pages: 3139, url: 'http://www.avito.ru/novosibirskaya_oblast'}
-- {name: !!python/str "\u041E\u043C\u0441\u043A\u0430\u044F \u043E\u0431\u043B.",
-  pages: 3504, url: 'http://www.avito.ru/omskaya_oblast'}
-- {name: !!python/str "\u041F\u0440\u0438\u043C\u043E\u0440\u0441\u043A\u0438\u0439\
-    \ \u043A\u0440\u0430\u0439", pages: 425, url: 'http://www.avito.ru/primorskiy_kray'}
-- {name: !!python/str "\u0420\u0435\u0441\u043F\u0443\u0431\u043B\u0438\u043A\u0430\
-    \ \u0410\u043B\u0442\u0430\u0439", pages: 47, url: 'http://www.avito.ru/respublika_altay'}
-- {name: !!python/str "\u0421\u0430\u0445\u0430 (\u042F\u043A\u0443\u0442\u0438\u044F\
-    )", pages: 52, url: 'http://www.avito.ru/saha_yakutiya'}
-- {name: !!python/str "\u0421\u0430\u0445\u0430\u043B\u0438\u043D\u0441\u043A\u0430\
-    \u044F \u043E\u0431\u043B.", pages: 45, url: 'http://www.avito.ru/sahalinskaya_oblast'}
-- {name: !!python/str "\u0422\u043E\u043C\u0441\u043A\u0430\u044F \u043E\u0431\u043B\
-    .", pages: 1003, url: 'http://www.avito.ru/tomskaya_oblast'}
-- {name: !!python/str "\u0422\u044B\u0432\u0430", pages: 21, url: 'http://www.avito.ru/tyva'}
-- {name: !!python/str "\u0422\u044E\u043C\u0435\u043D\u0441\u043A\u0430\u044F \u043E\
-    \u0431\u043B.", pages: 2049, url: 'http://www.avito.ru/tyumenskaya_oblast'}
-- {name: !!python/str "\u0425\u0430\u0431\u0430\u0440\u043E\u0432\u0441\u043A\u0438\
-    \u0439 \u043A\u0440\u0430\u0439", pages: 718, url: 'http://www.avito.ru/habarovskiy_kray'}
-- {name: !!python/str "\u0425\u0430\u043A\u0430\u0441\u0438\u044F", pages: 337, url: 'http://www.avito.ru/hakasiya'}
-- {name: !!python/str "\u0425\u0430\u043D\u0442\u044B-\u041C\u0430\u043D\u0441\u0438\
-    \u0439\u0441\u043A\u0438\u0439 \u0410\u041E", pages: 1018, url: 'http://www.avito.ru/hanty-mansiyskiy_ao'}
-- {name: !!python/str "\u0427\u0443\u043A\u043E\u0442\u0441\u043A\u0438\u0439 \u0410\
-    \u041E", pages: 3, url: 'http://www.avito.ru/chukotskiy_ao'}
-- {name: !!python/str "\u042F\u043C\u0430\u043B\u043E-\u041D\u0435\u043D\u0435\u0446\
-    \u043A\u0438\u0439 \u0410\u041E", pages: 151, url: 'http://www.avito.ru/yamalo-nenetskiy_ao'}
-- {name: !!python/str "\u041C\u043E\u0441\u043A\u0432\u0430", pages: 46941, url: 'http://www.avito.ru/moskva'}
-- {name: !!python/str "\u0421\u0430\u043D\u043A\u0442-\u041F\u0435\u0442\u0435\u0440\
-    \u0431\u0443\u0440\u0433", pages: 24482, url: 'http://www.avito.ru/sankt-peterburg'}
-- {name: !!python/str "\u0412\u043E\u043B\u0433\u043E\u0433\u0440\u0430\u0434", pages: 4094,
-  url: 'http://www.avito.ru/volgograd'}
-- {name: !!python/str "\u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0431\u0443\
-    \u0440\u0433", pages: 3413, url: 'http://www.avito.ru/ekaterinburg'}
-- {name: !!python/str "\u041A\u0430\u0437\u0430\u043D\u044C", pages: 5009, url: 'http://www.avito.ru/kazan'}
-- {name: !!python/str "\u041A\u0440\u0430\u0441\u043D\u043E\u0434\u0430\u0440", pages: 7285,
-  url: 'http://www.avito.ru/krasnodar'}
-- {name: !!python/str "\u041D\u0438\u0436\u043D\u0438\u0439 \u041D\u043E\u0432\u0433\
-    \u043E\u0440\u043E\u0434", pages: 4451, url: 'http://www.avito.ru/nizhniy_novgorod'}
-- {name: !!python/str "\u041F\u0435\u0440\u043C\u044C", pages: 3495, url: 'http://www.avito.ru/perm'}
-- {name: !!python/str "\u0420\u043E\u0441\u0442\u043E\u0432-\u043D\u0430-\u0414\u043E\
-    \u043D\u0443", pages: 6422, url: 'http://www.avito.ru/rostov-na-donu'}
-- {name: !!python/str "\u0421\u0430\u043C\u0430\u0440\u0430", pages: 3587, url: 'http://www.avito.ru/samara'}
-- {name: !!python/str "\u0423\u0444\u0430", pages: 4522, url: 'http://www.avito.ru/ufa'}
-- {name: !!python/str "\u0427\u0435\u043B\u044F\u0431\u0438\u043D\u0441\u043A", pages: 2933,
-  url: 'http://www.avito.ru/chelyabinsk'}
-- {name: !!python/str "\u0410\u0440\u0445\u0430\u043D\u0433\u0435\u043B\u044C\u0441\
-    \u043A\u0430\u044F \u043E\u0431\u043B.", pages: 472, url: 'http://www.avito.ru/arhangelskaya_oblast'}
-- {name: !!python/str "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043D\u0441\u043A\
-    \u0430\u044F \u043E\u0431\u043B.", pages: 1280, url: 'http://www.avito.ru/astrahanskaya_oblast'}
-- {name: !!python/str "\u0411\u0430\u0448\u043A\u043E\u0440\u0442\u043E\u0441\u0442\
-    \u0430\u043D", pages: 6474, url: 'http://www.avito.ru/bashkortostan'}
-- {name: !!python/str "\u0411\u0435\u043B\u0433\u043E\u0440\u043E\u0434\u0441\u043A\
-    \u0430\u044F \u043E\u0431\u043B.", pages: 1760, url: 'http://www.avito.ru/belgorodskaya_oblast'}
-- {name: !!python/str "\u0411\u0440\u044F\u043D\u0441\u043A\u0430\u044F \u043E\u0431\
-    \u043B.", pages: 738, url: 'http://www.avito.ru/bryanskaya_oblast'}
-- {name: !!python/str "\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\u0441\u043A\
-    \u0430\u044F \u043E\u0431\u043B.", pages: 1401, url: 'http://www.avito.ru/vladimirskaya_oblast'}
-- {name: !!python/str "\u0412\u043E\u043B\u0433\u043E\u0433\u0440\u0430\u0434\u0441\
-    \u043A\u0430\u044F \u043E\u0431\u043B.", pages: 5314, url: 'http://www.avito.ru/volgogradskaya_oblast'}
-- {name: !!python/str "\u0412\u043E\u043B\u043E\u0433\u043E\u0434\u0441\u043A\u0430\
-    \u044F \u043E\u0431\u043B.", pages: 886, url: 'http://www.avito.ru/vologodskaya_oblast'}
-- {name: !!python/str "\u0412\u043E\u0440\u043E\u043D\u0435\u0436\u0441\u043A\u0430\
-    \u044F \u043E\u0431\u043B.", pages: 2524, url: 'http://www.avito.ru/voronezhskaya_oblast'}
-- {name: !!python/str "\u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043D", pages: 777,
-  url: 'http://www.avito.ru/dagestan'}
-- {name: !!python/str "\u0418\u0432\u0430\u043D\u043E\u0432\u0441\u043A\u0430\u044F\
-    \ \u043E\u0431\u043B.", pages: 480, url: 'http://www.avito.ru/ivanovskaya_oblast'}
-- {name: !!python/str "\u041A\u0430\u043B\u0438\u043D\u0438\u043D\u0433\u0440\u0430\
-    \u0434\u0441\u043A\u0430\u044F \u043E\u0431\u043B.", pages: 1958, url: 'http://www.avito.ru/kaliningradskaya_oblast'}
-- {name: !!python/str "\u041A\u0430\u043B\u0443\u0436\u0441\u043A\u0430\u044F \u043E\
-    \u0431\u043B.", pages: 1254, url: 'http://www.avito.ru/kaluzhskaya_oblast'}
-- {name: !!python/str "\u041A\u0430\u0440\u0435\u043B\u0438\u044F", pages: 559, url: 'http://www.avito.ru/kareliya'}
-- {name: !!python/str "\u041A\u0438\u0440\u043E\u0432\u0441\u043A\u0430\u044F \u043E\
-    \u0431\u043B.", pages: 1032, url: 'http://www.avito.ru/kirovskaya_oblast'}
-- {name: !!python/str "\u041A\u043E\u043C\u0438", pages: 553, url: 'http://www.avito.ru/komi'}
-- {name: !!python/str "\u041A\u043E\u0441\u0442\u0440\u043E\u043C\u0441\u043A\u0430\
-    \u044F \u043E\u0431\u043B.", pages: 510, url: 'http://www.avito.ru/kostromskaya_oblast'}
-- {name: !!python/str "\u041A\u0440\u0430\u0441\u043D\u043E\u0434\u0430\u0440\u0441\
-    \u043A\u0438\u0439 \u043A\u0440\u0430\u0439", pages: 13000, url: 'http://www.avito.ru/krasnodarskiy_kray'}
-- {name: !!python/str "\u041A\u0443\u0440\u0433\u0430\u043D\u0441\u043A\u0430\u044F\
-    \ \u043E\u0431\u043B.", pages: 501, url: 'http://www.avito.ru/kurganskaya_oblast'}
-- {name: !!python/str "\u041A\u0443\u0440\u0441\u043A\u0430\u044F \u043E\u0431\u043B\
-    .", pages: 877, url: 'http://www.avito.ru/kurskaya_oblast'}
-- {name: !!python/str "\u041B\u0435\u043D\u0438\u043D\u0433\u0440\u0430\u0434\u0441\
-    \u043A\u0430\u044F \u043E\u0431\u043B.", pages: 968, url: 'http://www.avito.ru/leningradskaya_oblast'}
-- {name: !!python/str "\u041B\u0438\u043F\u0435\u0446\u043A\u0430\u044F \u043E\u0431\
-    \u043B.", pages: 1017, url: 'http://www.avito.ru/lipetskaya_oblast'}
-- {name: !!python/str "\u041C\u0430\u0440\u0438\u0439 \u042D\u043B", pages: 605, url: 'http://www.avito.ru/mariy_el'}
-- {name: !!python/str "\u041C\u043E\u0440\u0434\u043E\u0432\u0438\u044F", pages: 501,
-  url: 'http://www.avito.ru/mordoviya'}
-- {name: !!python/str "\u041C\u043E\u0441\u043A\u043E\u0432\u0441\u043A\u0430\u044F\
-    \ \u043E\u0431\u043B.", pages: 8065, url: 'http://www.avito.ru/moskovskaya_oblast'}
-- {name: !!python/str "\u041C\u0443\u0440\u043C\u0430\u043D\u0441\u043A\u0430\u044F\
-    \ \u043E\u0431\u043B.", pages: 969, url: 'http://www.avito.ru/murmanskaya_oblast'}
-- {name: !!python/str "\u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u0441\
-    \u043A\u0430\u044F \u043E\u0431\u043B.", pages: 5841, url: 'http://www.avito.ru/nizhegorodskaya_oblast'}
-- {name: !!python/str "\u041D\u043E\u0432\u0433\u043E\u0440\u043E\u0434\u0441\u043A\
-    \u0430\u044F \u043E\u0431\u043B.", pages: 614, url: 'http://www.avito.ru/novgorodskaya_oblast'}
-- {name: !!python/str "\u041E\u0440\u0435\u043D\u0431\u0443\u0440\u0433\u0441\u043A\
-    \u0430\u044F \u043E\u0431\u043B.", pages: 1729, url: 'http://www.avito.ru/orenburgskaya_oblast'}
-- {name: !!python/str "\u041E\u0440\u043B\u043E\u0432\u0441\u043A\u0430\u044F \u043E\
-    \u0431\u043B.", pages: 475, url: 'http://www.avito.ru/orlovskaya_oblast'}
-- {name: !!python/str "\u041F\u0435\u043D\u0437\u0435\u043D\u0441\u043A\u0430\u044F\
-    \ \u043E\u0431\u043B.", pages: 846, url: 'http://www.avito.ru/penzenskaya_oblast'}
-- {name: !!python/str "\u041F\u0435\u0440\u043C\u0441\u043A\u0438\u0439 \u043A\u0440\
-    \u0430\u0439", pages: 4138, url: 'http://www.avito.ru/permskiy_kray'}
-- {name: !!python/str "\u041F\u0441\u043A\u043E\u0432\u0441\u043A\u0430\u044F \u043E\
-    \u0431\u043B.", pages: 667, url: 'http://www.avito.ru/pskovskaya_oblast'}
-- {name: !!python/str "\u0420\u043E\u0441\u0442\u043E\u0432\u0441\u043A\u0430\u044F\
-    \ \u043E\u0431\u043B.", pages: 9283, url: 'http://www.avito.ru/rostovskaya_oblast'}
-- {name: !!python/str "\u0420\u044F\u0437\u0430\u043D\u0441\u043A\u0430\u044F \u043E\
-    \u0431\u043B.", pages: 1154, url: 'http://www.avito.ru/ryazanskaya_oblast'}
-- {name: !!python/str "\u0421\u0430\u043C\u0430\u0440\u0441\u043A\u0430\u044F \u043E\
-    \u0431\u043B.", pages: 5327, url: 'http://www.avito.ru/samarskaya_oblast'}
-- {name: !!python/str "\u0421\u0430\u0440\u0430\u0442\u043E\u0432\u0441\u043A\u0430\
-    \u044F \u043E\u0431\u043B.", pages: 3852, url: 'http://www.avito.ru/saratovskaya_oblast'}
-- {name: !!python/str "\u0421\u0432\u0435\u0440\u0434\u043B\u043E\u0432\u0441\u043A\
-    \u0430\u044F \u043E\u0431\u043B.", pages: 4075, url: 'http://www.avito.ru/sverdlovskaya_oblast'}
-- {name: !!python/str "\u0421\u043C\u043E\u043B\u0435\u043D\u0441\u043A\u0430\u044F\
-    \ \u043E\u0431\u043B.", pages: 880, url: 'http://www.avito.ru/smolenskaya_oblast'}
-- {name: !!python/str "\u0421\u0442\u0430\u0432\u0440\u043E\u043F\u043E\u043B\u044C\
-    \u0441\u043A\u0438\u0439 \u043A\u0440\u0430\u0439", pages: 3345, url: 'http://www.avito.ru/stavropolskiy_kray'}
-- {name: !!python/str "\u0422\u0430\u043C\u0431\u043E\u0432\u0441\u043A\u0430\u044F\
-    \ \u043E\u0431\u043B.", pages: 534, url: 'http://www.avito.ru/tambovskaya_oblast'}
-- {name: !!python/str "\u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043D", pages: 7525,
-  url: 'http://www.avito.ru/tatarstan'}
-- {name: !!python/str "\u0422\u0432\u0435\u0440\u0441\u043A\u0430\u044F \u043E\u0431\
-    \u043B.", pages: 1087, url: 'http://www.avito.ru/tverskaya_oblast'}
-- {name: !!python/str "\u0422\u0443\u043B\u044C\u0441\u043A\u0430\u044F \u043E\u0431\
-    \u043B.", pages: 1679, url: 'http://www.avito.ru/tulskaya_oblast'}
-- {name: !!python/str "\u0423\u0434\u043C\u0443\u0440\u0442\u0438\u044F", pages: 1578,
-  url: 'http://www.avito.ru/udmurtiya'}
-- {name: !!python/str "\u0423\u043B\u044C\u044F\u043D\u043E\u0432\u0441\u043A\u0430\
-    \u044F \u043E\u0431\u043B.", pages: 1498, url: 'http://www.avito.ru/ulyanovskaya_oblast'}
-- {name: !!python/str "\u0427\u0435\u043B\u044F\u0431\u0438\u043D\u0441\u043A\u0430\
-    \u044F \u043E\u0431\u043B.", pages: 4220, url: 'http://www.avito.ru/chelyabinskaya_oblast'}
-- {name: !!python/str "\u0427\u0443\u0432\u0430\u0448\u0438\u044F", pages: 1442, url: 'http://www.avito.ru/chuvashiya'}
-- {name: !!python/str "\u042F\u0440\u043E\u0441\u043B\u0430\u0432\u0441\u043A\u0430\
-    \u044F \u043E\u0431\u043B.", pages: 1817, url: 'http://www.avito.ru/yaroslavskaya_oblast'}
-- {name: !!python/str "\u0410\u0434\u044B\u0433\u0435\u044F", pages: 354, url: 'http://www.avito.ru/adygeya'}
-- {name: !!python/str "\u0418\u043D\u0433\u0443\u0448\u0435\u0442\u0438\u044F", pages: 34,
-  url: 'http://www.avito.ru/ingushetiya'}
-- {name: !!python/str "\u041A\u0430\u0431\u0430\u0440\u0434\u0438\u043D\u043E-\u0411\
-    \u0430\u043B\u043A\u0430\u0440\u0438\u044F", pages: 254, url: 'http://www.avito.ru/kabardino-balkariya'}
-- {name: !!python/str "\u041A\u0430\u043B\u043C\u044B\u043A\u0438\u044F", pages: 80,
-  url: 'http://www.avito.ru/kalmykiya'}
-- {name: !!python/str "\u041A\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043E-\u0427\
-    \u0435\u0440\u043A\u0435\u0441\u0438\u044F", pages: 141, url: 'http://www.avito.ru/karachaevo-cherkesiya'}
-- {name: !!python/str "\u041D\u0435\u043D\u0435\u0446\u043A\u0438\u0439 \u0410\u041E",
-  pages: 6, url: 'http://www.avito.ru/nenetskiy_ao'}
-- {name: !!python/str "\u0421\u0435\u0432\u0435\u0440\u043D\u0430\u044F \u041E\u0441\
-    \u0435\u0442\u0438\u044F", pages: 300, url: 'http://www.avito.ru/severnaya_osetiya'}
-- {name: !!python/str "\u0427\u0435\u0447\u0435\u043D\u0441\u043A\u0430\u044F \u0440\
-    \u0435\u0441\u043F\u0443\u0431\u043B\u0438\u043A\u0430", pages: 132, url: 'http://www.avito.ru/chechenskaya_respublika'}
+- {name: "\u041C\u043E\u0441\u043A\u0432\u0430", url: !!python/unicode 'http://m.avito.ru/items?location_id=637640'}
+- {name: "\u041C\u043E\u0441\u043A\u043E\u0432\u0441\u043A\u0430\u044F \u043E\u0431\
+    \u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=637680'}
+- {name: "\u0421\u0430\u043D\u043A\u0442-\u041F\u0435\u0442\u0435\u0440\u0431\u0443\
+    \u0440\u0433", url: !!python/unicode 'http://m.avito.ru/items?location_id=653240'}
+- {name: "\u041B\u0435\u043D\u0438\u043D\u0433\u0440\u0430\u0434\u0441\u043A\u0430\
+    \u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=636370'}
+- {name: "\u0410\u0434\u044B\u0433\u0435\u044F", url: !!python/unicode 'http://m.avito.ru/items?location_id=645530'}
+- {name: "\u0410\u043B\u0442\u0430\u0439\u0441\u043A\u0438\u0439 \u043A\u0440\u0430\
+    \u0439", url: !!python/unicode 'http://m.avito.ru/items?location_id=621590'}
+- {name: "\u0410\u043C\u0443\u0440\u0441\u043A\u0430\u044F \u043E\u0431\u043B\u0430\
+    \u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=622470'}
+- {name: "\u0410\u0440\u0445\u0430\u043D\u0433\u0435\u043B\u044C\u0441\u043A\u0430\
+    \u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=622650'}
+- {name: "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043D\u0441\u043A\u0430\u044F\
+    \ \u043E\u0431\u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=623110'}
+- {name: "\u0411\u0430\u0448\u043A\u043E\u0440\u0442\u043E\u0441\u0442\u0430\u043D",
+  url: !!python/unicode 'http://m.avito.ru/items?location_id=645790'}
+- {name: "\u0411\u0435\u043B\u0433\u043E\u0440\u043E\u0434\u0441\u043A\u0430\u044F\
+    \ \u043E\u0431\u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=623410'}
+- {name: "\u0411\u0440\u044F\u043D\u0441\u043A\u0430\u044F \u043E\u0431\u043B\u0430\
+    \u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=623840'}
+- {name: "\u0411\u0443\u0440\u044F\u0442\u0438\u044F", url: !!python/unicode 'http://m.avito.ru/items?location_id=623845'}
+- {name: "\u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\u0441\u043A\u0430\u044F\
+    \ \u043E\u0431\u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=624300'}
+- {name: "\u0412\u043E\u043B\u0433\u043E\u0433\u0440\u0430\u0434\u0441\u043A\u0430\
+    \u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=624770'}
+- {name: "\u0412\u043E\u043B\u043E\u0433\u043E\u0434\u0441\u043A\u0430\u044F \u043E\
+    \u0431\u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=625330'}
+- {name: "\u0412\u043E\u0440\u043E\u043D\u0435\u0436\u0441\u043A\u0430\u044F \u043E\
+    \u0431\u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=625670'}
+- {name: "\u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043D", url: !!python/unicode 'http://m.avito.ru/items?location_id=646710'}
+- {name: "\u0415\u0432\u0440\u0435\u0439\u0441\u043A\u0430\u044F \u0410\u041E", url: !!python/unicode 'http://m.avito.ru/items?location_id=626470'}
+- {name: "\u0417\u0430\u0431\u0430\u0439\u043A\u0430\u043B\u044C\u0441\u043A\u0438\
+    \u0439 \u043A\u0440\u0430\u0439", url: !!python/unicode 'http://m.avito.ru/items?location_id=661460'}
+- {name: "\u0418\u0432\u0430\u043D\u043E\u0432\u0441\u043A\u0430\u044F \u043E\u0431\
+    \u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=628450'}
+- {name: "\u0418\u043D\u0433\u0443\u0448\u0435\u0442\u0438\u044F", url: !!python/unicode 'http://m.avito.ru/items?location_id=628455'}
+- {name: "\u0418\u0440\u043A\u0443\u0442\u0441\u043A\u0430\u044F \u043E\u0431\u043B\
+    \u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=628780'}
+- {name: "\u041A\u0430\u0431\u0430\u0440\u0434\u0438\u043D\u043E-\u0411\u0430\u043B\
+    \u043A\u0430\u0440\u0438\u044F", url: !!python/unicode 'http://m.avito.ru/items?location_id=629430'}
+- {name: "\u041A\u0430\u043B\u0438\u043D\u0438\u043D\u0433\u0440\u0430\u0434\u0441\
+    \u043A\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=629990'}
+- {name: "\u041A\u0430\u043B\u043C\u044B\u043A\u0438\u044F", url: !!python/unicode 'http://m.avito.ru/items?location_id=629995'}
+- {name: "\u041A\u0430\u043B\u0443\u0436\u0441\u043A\u0430\u044F \u043E\u0431\u043B\
+    \u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=630270'}
+- {name: "\u041A\u0430\u043C\u0447\u0430\u0442\u0441\u043A\u0438\u0439 \u043A\u0440\
+    \u0430\u0439", url: !!python/unicode 'http://m.avito.ru/items?location_id=630660'}
+- {name: "\u041A\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043E-\u0427\u0435\u0440\
+    \u043A\u0435\u0441\u0438\u044F", url: !!python/unicode 'http://m.avito.ru/items?location_id=630750'}
+- {name: "\u041A\u0430\u0440\u0435\u043B\u0438\u044F", url: !!python/unicode 'http://m.avito.ru/items?location_id=648070'}
+- {name: "\u041A\u0435\u043C\u0435\u0440\u043E\u0432\u0441\u043A\u0430\u044F \u043E\
+    \u0431\u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=631080'}
+- {name: "\u041A\u0438\u0440\u043E\u0432\u0441\u043A\u0430\u044F \u043E\u0431\u043B\
+    \u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=631730'}
+- {name: "\u041A\u043E\u043C\u0438", url: !!python/unicode 'http://m.avito.ru/items?location_id=648340'}
+- {name: "\u041A\u043E\u0441\u0442\u0440\u043E\u043C\u0441\u043A\u0430\u044F \u043E\
+    \u0431\u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=632390'}
+- {name: "\u041A\u0440\u0430\u0441\u043D\u043E\u0434\u0430\u0440\u0441\u043A\u0438\
+    \u0439 \u043A\u0440\u0430\u0439", url: !!python/unicode 'http://m.avito.ru/items?location_id=632660'}
+- {name: "\u041A\u0440\u0430\u0441\u043D\u043E\u044F\u0440\u0441\u043A\u0438\u0439\
+    \ \u043A\u0440\u0430\u0439", url: !!python/unicode 'http://m.avito.ru/items?location_id=634930'}
+- {name: "\u041A\u0443\u0440\u0433\u0430\u043D\u0441\u043A\u0430\u044F \u043E\u0431\
+    \u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=635730'}
+- {name: "\u041A\u0443\u0440\u0441\u043A\u0430\u044F \u043E\u0431\u043B\u0430\u0441\
+    \u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=636030'}
+- {name: "\u041B\u0438\u043F\u0435\u0446\u043A\u0430\u044F \u043E\u0431\u043B\u0430\
+    \u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=637260'}
+- {name: "\u041C\u0430\u0433\u0430\u0434\u0430\u043D\u0441\u043A\u0430\u044F \u043E\
+    \u0431\u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=637530'}
+- {name: "\u041C\u0430\u0440\u0438\u0439 \u042D\u043B", url: !!python/unicode 'http://m.avito.ru/items?location_id=648730'}
+- {name: "\u041C\u043E\u0440\u0434\u043E\u0432\u0438\u044F", url: !!python/unicode 'http://m.avito.ru/items?location_id=648960'}
+- {name: "\u041C\u0443\u0440\u043C\u0430\u043D\u0441\u043A\u0430\u044F \u043E\u0431\
+    \u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=640000'}
+- {name: "\u041D\u0435\u043D\u0435\u0446\u043A\u0438\u0439 \u0410\u041E", url: !!python/unicode 'http://m.avito.ru/items?location_id=640001'}
+- {name: "\u041D\u0438\u0436\u0435\u0433\u043E\u0440\u043E\u0434\u0441\u043A\u0430\
+    \u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=640310'}
+- {name: "\u041D\u043E\u0432\u0433\u043E\u0440\u043E\u0434\u0441\u043A\u0430\u044F\
+    \ \u043E\u0431\u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=641240'}
+- {name: "\u041D\u043E\u0432\u043E\u0441\u0438\u0431\u0438\u0440\u0441\u043A\u0430\
+    \u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=641470'}
+- {name: "\u041E\u043C\u0441\u043A\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\
+    \u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=642020'}
+- {name: "\u041E\u0440\u0435\u043D\u0431\u0443\u0440\u0433\u0441\u043A\u0430\u044F\
+    \ \u043E\u0431\u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=642480'}
+- {name: "\u041E\u0440\u043B\u043E\u0432\u0441\u043A\u0430\u044F \u043E\u0431\u043B\
+    \u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=643030'}
+- {name: "\u041F\u0435\u043D\u0437\u0435\u043D\u0441\u043A\u0430\u044F \u043E\u0431\
+    \u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=643250'}
+- {name: "\u041F\u0435\u0440\u043C\u0441\u043A\u0438\u0439 \u043A\u0440\u0430\u0439",
+  url: !!python/unicode 'http://m.avito.ru/items?location_id=643700'}
+- {name: "\u041F\u0440\u0438\u043C\u043E\u0440\u0441\u043A\u0438\u0439 \u043A\u0440\
+    \u0430\u0439", url: !!python/unicode 'http://m.avito.ru/items?location_id=644490'}
+- {name: "\u041F\u0441\u043A\u043E\u0432\u0441\u043A\u0430\u044F \u043E\u0431\u043B\
+    \u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=645260'}
+- {name: "\u0420\u0435\u0441\u043F\u0443\u0431\u043B\u0438\u043A\u0430 \u0410\u043B\
+    \u0442\u0430\u0439", url: !!python/unicode 'http://m.avito.ru/items?location_id=662811'}
+- {name: "\u0420\u043E\u0441\u0442\u043E\u0432\u0441\u043A\u0430\u044F \u043E\u0431\
+    \u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=651110'}
+- {name: "\u0420\u044F\u0437\u0430\u043D\u0441\u043A\u0430\u044F \u043E\u0431\u043B\
+    \u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=652220'}
+- {name: "\u0421\u0430\u043C\u0430\u0440\u0441\u043A\u0430\u044F \u043E\u0431\u043B\
+    \u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=652560'}
+- {name: "\u0421\u0430\u0440\u0430\u0442\u043E\u0432\u0441\u043A\u0430\u044F \u043E\
+    \u0431\u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=653420'}
+- {name: "\u0421\u0430\u0445\u0430\u043B\u0438\u043D\u0441\u043A\u0430\u044F \u043E\
+    \u0431\u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=653430'}
+- {name: "\u0421\u0430\u0445\u0430 (\u042F\u043A\u0443\u0442\u0438\u044F)", url: !!python/unicode 'http://m.avito.ru/items?location_id=649330'}
+- {name: "\u0421\u0432\u0435\u0440\u0434\u043B\u043E\u0432\u0441\u043A\u0430\u044F\
+    \ \u043E\u0431\u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=653700'}
+- {name: "\u0421\u0435\u0432\u0435\u0440\u043D\u0430\u044F \u041E\u0441\u0435\u0442\
+    \u0438\u044F", url: !!python/unicode 'http://m.avito.ru/items?location_id=649820'}
+- {name: "\u0421\u043C\u043E\u043B\u0435\u043D\u0441\u043A\u0430\u044F \u043E\u0431\
+    \u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=654860'}
+- {name: "\u0421\u0442\u0430\u0432\u0440\u043E\u043F\u043E\u043B\u044C\u0441\u043A\
+    \u0438\u0439 \u043A\u0440\u0430\u0439", url: !!python/unicode 'http://m.avito.ru/items?location_id=655190'}
+- {name: "\u0422\u0430\u043C\u0431\u043E\u0432\u0441\u043A\u0430\u044F \u043E\u0431\
+    \u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=656520'}
+- {name: "\u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043D", url: !!python/unicode 'http://m.avito.ru/items?location_id=650130'}
+- {name: "\u0422\u0432\u0435\u0440\u0441\u043A\u0430\u044F \u043E\u0431\u043B\u0430\
+    \u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=656890'}
+- {name: "\u0422\u043E\u043C\u0441\u043A\u0430\u044F \u043E\u0431\u043B\u0430\u0441\
+    \u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=657310'}
+- {name: "\u0422\u0443\u043B\u044C\u0441\u043A\u0430\u044F \u043E\u0431\u043B\u0430\
+    \u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=657610'}
+- {name: "\u0422\u044B\u0432\u0430", url: !!python/unicode 'http://m.avito.ru/items?location_id=650690'}
+- {name: "\u0422\u044E\u043C\u0435\u043D\u0441\u043A\u0430\u044F \u043E\u0431\u043B\
+    \u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=658170'}
+- {name: "\u0423\u0434\u043C\u0443\u0440\u0442\u0438\u044F", url: !!python/unicode 'http://m.avito.ru/items?location_id=659200'}
+- {name: "\u0423\u043B\u044C\u044F\u043D\u043E\u0432\u0441\u043A\u0430\u044F \u043E\
+    \u0431\u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=659540'}
+- {name: "\u0425\u0430\u0431\u0430\u0440\u043E\u0432\u0441\u043A\u0438\u0439 \u043A\
+    \u0440\u0430\u0439", url: !!python/unicode 'http://m.avito.ru/items?location_id=659930'}
+- {name: "\u0425\u0430\u043A\u0430\u0441\u0438\u044F", url: !!python/unicode 'http://m.avito.ru/items?location_id=650890'}
+- {name: "\u0425\u0430\u043D\u0442\u044B-\u041C\u0430\u043D\u0441\u0438\u0439\u0441\
+    \u043A\u0438\u0439 \u0410\u041E", url: !!python/unicode 'http://m.avito.ru/items?location_id=660300'}
+- {name: "\u0427\u0435\u043B\u044F\u0431\u0438\u043D\u0441\u043A\u0430\u044F \u043E\
+    \u0431\u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=660710'}
+- {name: "\u0427\u0435\u0447\u0435\u043D\u0441\u043A\u0430\u044F \u0440\u0435\u0441\
+    \u043F\u0443\u0431\u043B\u0438\u043A\u0430", url: !!python/unicode 'http://m.avito.ru/items?location_id=660711'}
+- {name: "\u0427\u0443\u0432\u0430\u0448\u0438\u044F", url: !!python/unicode 'http://m.avito.ru/items?location_id=662000'}
+- {name: "\u0427\u0443\u043A\u043E\u0442\u0441\u043A\u0438\u0439 \u0410\u041E", url: !!python/unicode 'http://m.avito.ru/items?location_id=662280'}
+- {name: "\u042F\u043C\u0430\u043B\u043E-\u041D\u0435\u043D\u0435\u0446\u043A\u0438\
+    \u0439 \u0410\u041E", url: !!python/unicode 'http://m.avito.ru/items?location_id=662330'}
+- {name: "\u042F\u0440\u043E\u0441\u043B\u0430\u0432\u0441\u043A\u0430\u044F \u043E\
+    \u0431\u043B\u0430\u0441\u0442\u044C", url: !!python/unicode 'http://m.avito.ru/items?location_id=662530'}
